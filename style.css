@@ -1,0 +1,52 @@
+button{
+     padding: 10px;
+     font-family:"Quicksand";
+     font-size: 20px;
+     text-align: center;
+     border-radius: 75px;
+     
+}
+
+#tamil{
+     margin-top: 20px;
+     font-family: "Noto Sans Tamil";
+}
+
+#english{
+     margin-top: 20px;
+}
+
+#englishMenu{
+     text-align: center;
+     height: 100px;
+     width: 100px;
+     float: left;
+     margin: 30px;
+}
+
+#hospital{
+     background-image: url(https://cdn4.iconfinder.com/data/icons/covid-19-coronavirus-8/128/03_Hospital-512.png);
+     background-repeat: no-repeat;
+     background-size: cover;
+     width: 100px;
+     height: 100px;
+     margin-top: 10px;
+}
+
+#speed{
+     background-image: url(https://cdn2.iconfinder.com/data/icons/transports-sports-and-technology/1000/icon_light-68-512.png);
+     background-repeat: no-repeat;
+     background-size: cover;
+     width: 100px;
+     height: 100px;
+     
+}
+
+#police{
+     background-image: url(https://cdn-icons-png.flaticon.com/512/569/569040.png);
+     background-repeat: no-repeat;
+     background-size: cover;
+     width: 100px;
+     height: 100px;
+     
+}
